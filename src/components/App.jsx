@@ -8,7 +8,7 @@ import transactions from '../transactions.json'
 import { Statistics } from "./Statistics/Statistics";
 import { FriendList } from './FriendList/FriendList'
 import { TransactionHistory } from "./TransactionHistory/TransactionHistory";
-import { SubWarapper, Wrapper } from "./App.styled";
+import { Wrapper } from "./App.styled";
 export const App = () => {
   return (
     <Wrapper
